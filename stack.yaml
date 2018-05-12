@@ -1,0 +1,8 @@
+resolver: nightly-2018-05-10
+
+packages:
+- .
+
+extra-deps:
+- Enum-0.1.0.0
+- smallcheck-1.1.4
